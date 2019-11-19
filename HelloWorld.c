@@ -2,7 +2,8 @@
 
 int main(int argc, char* arg[]) 
 {
-  printf("Hello, C Language \n");
-  ㄴ
+  printf("Hello, C Language \n add");
+  
+  
   return 0;
 }
